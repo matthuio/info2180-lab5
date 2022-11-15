@@ -1,1 +1,29 @@
-/* Add your own styles */
+h1
+{
+    color: #ffffff;
+    font-size: 24px;
+}
+header{
+    padding: 15px 20px;
+    background-color: #000000;
+    border-radius: 5px;    
+}
+
+p{
+    font-size: 18px;
+}
+button {
+    padding: 15px 20px;
+    background-color: #89f615;
+    border-radius: 5px;
+  }
+#country{
+    padding: 15px 20px;
+    background-color: #fcfcfc;
+    border-radius: 5px;
+}
+.container {
+    margin: 0 auto;
+    max-width: 960px;
+    width: 100%;
+}
